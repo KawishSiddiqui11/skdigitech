@@ -282,5 +282,7 @@ color: white;
         display: grid;
         grid-template-columns: auto;
     }
-    
+    .box{
+        height: 400px
+    }
 }
