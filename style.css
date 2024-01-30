@@ -274,6 +274,9 @@ color: white;
         padding-bottom: 30px;
         width: 100%;
     }
+    .social i{
+        display: inline;
+    }
 }
 @media(max-width:1380px){
     .courses{
